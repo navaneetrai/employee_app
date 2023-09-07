@@ -1,15 +1,24 @@
-# springboot-thymeleaf-crud-pagination-sorting-webapp
-
 Spring Boot CRUD Web application with Pagination and Sorting features using Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL database
 
-### Tutorial - Spring Boot CRUD Web Application with Thymeleaf, Spring MVC, Spring Data JPA, Hibernate, MySQL
-https://www.javaguides.net/2020/05/spring-boot-crud-web-application-with-thymeleaf.html
+ 
+Software needed :
+JDK 17
+Eclipse 
+mysql-connector-j-8.1.0.jar
+Spring Boot
+MySql Workbench
+Spring Data JPA
+create database demo; use rto;
 
-### YouTube Video - Spring Boot CRUD Web Application with Thymeleaf, Spring MVC, Spring Data JPA, Hibernate, MySQL
-https://youtu.be/_5sAmaRJd2c
+Create button:
+Add Employee
+Update
+Delete
 
-### Tutorial - Pagination and Sorting with Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL
-https://www.javaguides.net/2020/06/pagination-and-sorting-with-spring-boot-thymeleaf-spring-data-jpa-hibernate-mysql.html
+Launch project from Eclipse compiler  *** UPDATE YOUR MYSQL PASSWORD IN Application Installed property***
 
-### YouTube Video  - Pagination and Sorting with Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL
-=> https://youtu.be/Aie8n12EFQc
+User View functionalities:
+Update Info
+Add Employee
+Delete Employee
+Fectch Employee Data
